@@ -6,7 +6,7 @@ Hi, I made this AI to help you with your tasks. It can listen to you through the
 
 Requeriments
 ------------------
-openai
+cohere
 speech_recognition
 pyttsx3
 json
